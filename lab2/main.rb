@@ -32,8 +32,8 @@ def foobar(left, right)
 end
 
 
-#foobar(1,10)
-#foobar(20,10)
-#foobar(10,20)
+foobar(1,10)
+foobar(20,10)
+foobar(10,20)
 
-greeting
+#greeting
